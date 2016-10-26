@@ -5,6 +5,17 @@
  * @package WP-SSL-LABS-API
  */
 
+/*
+* Plugin Name: WP SSL Labs API
+* Plugin URI: https://github.com/wp-api-libraries/wp-ssllabs-api
+* Description: Perform API requests to Harvest in WordPress.
+* Author: WP API Libraries
+* Version: 1.0.0
+* Author URI: https://wp-api-libraries.com
+* GitHub Plugin URI: https://github.com/wp-api-libraries/wp-ssllabs-api
+* GitHub Branch: master
+*/
+
 /* Exit if accessed directly. */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
